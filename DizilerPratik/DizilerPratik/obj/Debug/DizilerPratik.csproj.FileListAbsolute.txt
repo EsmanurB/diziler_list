@@ -1,0 +1,7 @@
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\bin\Debug\DizilerPratik.exe.config
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\bin\Debug\DizilerPratik.exe
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\bin\Debug\DizilerPratik.pdb
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\obj\Debug\DizilerPratik.csproj.AssemblyReference.cache
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\obj\Debug\DizilerPratik.csproj.CoreCompileInputs.cache
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\obj\Debug\DizilerPratik.exe
+C:\Users\3E_Spare\source\repos\DizilerPratik\DizilerPratik\obj\Debug\DizilerPratik.pdb
